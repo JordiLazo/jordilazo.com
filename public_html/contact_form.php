@@ -78,7 +78,8 @@ $headers = 'From: '.$email_from."\r\n".
 <!-- include your own success html here -->
  
 Thank you very much for contacting me. I will reply to your message as soon as possible.
- 
+<meta http-equiv="refresh" content="5;URL=http://jordilazo.com">
+
 <?php
  
 }
